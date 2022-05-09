@@ -1,4 +1,4 @@
-# da-faster-rcnn-PyTorch
+# Harmonic-detetion-loss
 A PyTorch implementation of ['Reconcile Prediction Consistency for Balanced Object Detection'](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Reconcile_Prediction_Consistency_for_Balanced_Object_Detection_ICCV_2021_paper.pdf) on DSSD
 
 
